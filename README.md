@@ -31,10 +31,11 @@ While the app features data for over 90 global countries, our primary case study
 ### National & State Dashboards
 ![India Dashboard](IMG_20261114_141653.jpg)
 ![Kerala Dashboard](IMG_20261114_141444.jpg)
+![State Dashboard Extra](IMG_20261114_141603.jpg)
 *Climate trends and statistical analysis at the national and state levels.*
 
 ### Regional Dashboard (Kottayam)
-![Kottayam Dashboard](IMG_20261114_141603.jpg)
+![Kottayam Dashboard](IMG_20261114_145030.jpg)
 *Data visualizations showing the 20-year warming and soil moisture trends.*
 
 ### Sub-Location Deep Dive (Kanjirappally)
