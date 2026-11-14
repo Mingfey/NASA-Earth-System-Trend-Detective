@@ -29,8 +29,8 @@ While the app features data for over 90 global countries, our primary case study
 *Real-time SGP4 tracking of NASA Earth Observation satellites over a 3D globe.*
 
 ### National & State Dashboards
-![India Dashboard](IMG_20261114_141532.jpg)
-![Kerala Dashboard](IMG_20261114_141545.jpg)
+![India Dashboard](IMG_20261114_141653.jpg)
+![Kerala Dashboard](IMG_20261114_141801.jpg)
 *Climate trends and statistical analysis at the national and state levels.*
 
 ### Regional Dashboard (Kottayam)
@@ -38,8 +38,8 @@ While the app features data for over 90 global countries, our primary case study
 *Data visualizations showing the 20-year warming and soil moisture trends.*
 
 ### Sub-Location Deep Dive (Kanjirappally)
-![Kanjirappally Map](IMG_20261114_141653.jpg)
-![Kanjirappally Data](IMG_20261114_141801.jpg)
+![Kanjirappally Map](IMG_20261114_141532.jpg)
+![Kanjirappally Data](IMG_20261114_141545.jpg)
 *Investigating the severe 2018 precipitation anomaly and its impact on vegetation (NDVI).*
 
 ---
