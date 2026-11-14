@@ -24,13 +24,13 @@ While the app features data for over 90 global countries, our primary case study
 ## 📸 Screenshots
 
 ### The 3D Orbital Command Center
-![Orbital View 1](IMG_20261114_141444.jpg)
+![Orbital View 1](IMG_20261114_141801.jpg)
 ![Orbital View 2](IMG_20261114_141512.jpg)
 *Real-time SGP4 tracking of NASA Earth Observation satellites over a 3D globe.*
 
 ### National & State Dashboards
 ![India Dashboard](IMG_20261114_141653.jpg)
-![Kerala Dashboard](IMG_20261114_141801.jpg)
+![Kerala Dashboard](IMG_20261114_141444.jpg)
 *Climate trends and statistical analysis at the national and state levels.*
 
 ### Regional Dashboard (Kottayam)
