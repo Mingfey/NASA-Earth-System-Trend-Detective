@@ -2,7 +2,7 @@
 
 ![Project Banner](IMG-20261114-WA0020.jpg)
 
-**Built for the NASA Space Apps Challenge 2024: "Be an Earth System Trend Detective!"**
+**Built for the NASA Space Apps Challenge 2026: "Be an Earth System Trend Detective!"**
 
 ## 🚀 Live Demo
 **[Click here to view the Live Web App](https://mingfey.github.io/NASA-Earth-System-Trend-Detective/)**
@@ -74,4 +74,4 @@ This project is built as a highly portable, single-file web application.
 3. *Note: An active internet connection is required to fetch the CDNs (Tailwind, Three.js, Chart.js) and map tiles.*
 
 ---
-*Created with ❤️ by Team *Yggdrasil:The World Tree* for the NASA Space Apps Challenge 2024.*
+*Created with ❤️ by Team *Yggdrasil:The World Tree* for the NASA Space Apps Challenge 2026.*
