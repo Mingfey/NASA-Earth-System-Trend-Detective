@@ -39,8 +39,7 @@ While the app features data for over 90 global countries, our primary case study
 *Data visualizations showing the 20-year warming and soil moisture trends.*
 
 ### Sub-Location Deep Dive (Kanjirappally)
-![Kanjirappally Map](IMG_20261114_141532.jpg)
-![Kanjirappally Data](IMG_20261114_141545.jpg)
+![Kanjirappally View](Screenshot_20261114_150450.jpg)
 *Investigating the severe 2018 precipitation anomaly and its impact on vegetation (NDVI).*
 
 ---
