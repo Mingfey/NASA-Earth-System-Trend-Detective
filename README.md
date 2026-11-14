@@ -1,6 +1,6 @@
 # 🌍 Earth System Trend Detective: 20-Year Climate Investigator
 
-![Project Banner](1000053172.jpg)
+![Project Banner](IMG-20261114-WA0020.jpg)
 
 **Built for the NASA Space Apps Challenge 2024: "Be an Earth System Trend Detective!"**
 
@@ -24,15 +24,22 @@ While the app features data for over 90 global countries, our primary case study
 ## 📸 Screenshots
 
 ### The 3D Orbital Command Center
-![Orbital View](1000053181.jpg)
+![Orbital View 1](IMG_20261114_141444.jpg)
+![Orbital View 2](IMG_20261114_141512.jpg)
 *Real-time SGP4 tracking of NASA Earth Observation satellites over a 3D globe.*
 
+### National & State Dashboards
+![India Dashboard](IMG_20261114_141532.jpg)
+![Kerala Dashboard](IMG_20261114_141545.jpg)
+*Climate trends and statistical analysis at the national and state levels.*
+
 ### Regional Dashboard (Kottayam)
-![Dashboard View](1000053164.jpg)
+![Kottayam Dashboard](IMG_20261114_141603.jpg)
 *Data visualizations showing the 20-year warming and soil moisture trends.*
 
 ### Sub-Location Deep Dive (Kanjirappally)
-![Kanjirappally View](1000053168.jpg)
+![Kanjirappally Map](IMG_20261114_141653.jpg)
+![Kanjirappally Data](IMG_20261114_141801.jpg)
 *Investigating the severe 2018 precipitation anomaly and its impact on vegetation (NDVI).*
 
 ---
